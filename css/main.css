@@ -1265,7 +1265,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #7eff50;
+  background: #93b301;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2636,4 +2636,36 @@ ul.breadcrumb li + li:last-child {
 }
 .links-of-blogroll-item {
   padding: 0;
+}
+/************************* Header **************************/
+/* header-隐藏顶部线条 */
+.headband {
+  display: none;
+}
+/* 圆角 */
+.header-inner,
+.sidebar-inner {
+  border-radius: $myradius;
+}
+body {
+  background: url("https://i.loli.net/2021/04/26/xqkJuIKXgPC8bSe.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+}
+.main-inner {
+  margin-top: 60px;
+  padding: 60px 60px 60px 60px;
+  background: #fff;
+  opacity: 0.8;
+  min-height: 500px;
+}
+.menu {
+  margin-top: 2em;
+  padding-left: 0;
+  text-align: center;
+  background: rgba(0,0,0,0.5);
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 1em;
 }
