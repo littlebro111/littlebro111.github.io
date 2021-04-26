@@ -1,39 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
-  <entry>
-    <title>Blog建好啦！！！</title>
-    <url>/%E7%94%9F%E6%B4%BB/FirstBlog/</url>
-    <content><![CDATA[<p><strong>啦啦啦~~~ 好开心~~~</strong></p>
-<p>2021年4月20日！我终于也是个拥有自己的Blog的人啦！</p>
-<span id="more"></span>
-
-<p>用<strong>Gridea + Github Page</strong>建Blog好简单啊！以前我还一直以为建Blog必须要自己搭一个服务器，是我大意了</p>
-<p>但是！虽然用<strong>Gridea</strong>建Blog确实很简单，但“同步”总是不成功，开了全局代理也不行，我最后还是只能改成利用<strong>Hexo + Github Page</strong>建Blog了。</p>
-<p>啊啊啊啊啊，和<strong>Gridea</strong>比起来，<strong>Hexo</strong>好复杂啊，前者半个晚上就搞定了，后者搞了好几天还没摸透，着实心累，而且现在我严重怀疑当时“同步”老是不成功的原因就是当时git设置代理时端口写错了！（现在也懒得再改回去了</p>
-<p>不过不管怎么说，有了一个自己的Blog是真的很开心，尤其是通过查资料一步步地完善自己的Blog的过程，从中获得的那种满足与成就感真的很爽</p>
-<p>唉，好后悔没早点搞一个Blog</p>
-<p>那为啥之前没想过要建，现在突然就想建了呢？其实原因也很简单，就是突然就心血来潮，想找一个属于自己的地方可以把想记录的东西都记录下来，</p>
-<p>仔细想想，想要记录的东西其实也不少：</p>
-<blockquote>
-<p>写一写生活中的一些感悟呀<br>把Blog当作是一个公开的收藏夹，记录一些学习资料，以及学习中遇到的一些坑<br>最近入了基金的大坑，也可以记录记录炒基金的一些心得体会</p>
-</blockquote>
-<p>总的来说，就是把我之后学习、生活、工作上的一些点点滴滴都记录下来（有一说一这是个好习惯，但愿我能坚持下来），做一个收集整理吧，而且更何况，说不定以后我就发达了对吧，那这就是我的回忆录啦哈哈哈哈哈哈哈哈哈哈哈哈哈哈（想peach专业户</p>
-<p>啊，既然都写到这里了，那我是不是该写一下我接下来的打算了？</p>
-<p>唔，我想想…</p>
-<blockquote>
-<ol>
-<li>首先！要把Blog整的好看些，现在还是太单调了！！！</li>
-<li>打算写一篇怎么建Blog的文章，把我建Blog的经验记录下来（虽然网上都有</li>
-<li>与CSDN同步整理上传一些学习资料，作整理收藏之用。</li>
-<li>打算写一个系列文章，记录我的炒基金生涯，把各个阶段我的仓位、盈亏以及心得体会等等都记录下来，这样也方便复盘</li>
-</ol>
-</blockquote>
-<p>最后就用我老婆的照片结尾吧</p>
-<p><img src="https://i.loli.net/2021/04/26/Z65gLFXcIVGomv3.jpg" alt="IU _2_.jpg"></p>
-<p>$$<br>THE\ \ \ END<br>$$</p>
-]]></content>
-      <categories>
-        <category>生活</category>
-      </categories>
-  </entry>
 </search>
